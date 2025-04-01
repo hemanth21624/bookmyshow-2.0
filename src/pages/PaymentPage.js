@@ -7,7 +7,7 @@ function PaymentPage() {
 
   const handlePayment = () => {
     alert("✅ Payment Successful!");
-    navigate("/");  // Redirects to HomePage
+    navigate("/"); 
   };
 
   return (
