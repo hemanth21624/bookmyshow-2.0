@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<HomePage />} />   {/* Show HomePage first */}
+        <Route path="/" element={<HomePage />} />   {}
         <Route path="/movies" element={<MoviesPage />} />
         <Route path="/booking" element={<BookingPage />} />
         <Route path="/payment" element={<PaymentPage />} />
