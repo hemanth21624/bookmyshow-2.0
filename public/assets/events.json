@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Music Concert",
+      "date": "2025-04-15",
+      "location": "Mumbai",
+      "price": 1200,
+      "image": "https://source.unsplash.com/400x300/?concert"
+    },
+    {
+      "id": 2,
+      "name": "Comedy Night",
+      "date": "2025-04-20",
+      "location": "Delhi",
+      "price": 800,
+      "image": "https://source.unsplash.com/400x300/?comedy"
+    },
+    {
+      "id": 3,
+      "name": "Tech Conference",
+      "date": "2025-04-25",
+      "location": "Bangalore",
+      "price": 1500,
+      "image": "https://source.unsplash.com/400x300/?conference"
+    }
+  ]
+  

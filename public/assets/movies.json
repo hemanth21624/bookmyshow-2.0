@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Inception",
+      "genre": "Sci-Fi",
+      "releaseDate": "2010-07-16",
+      "rating": "8.8",
+      "price": 150,
+      "trailerLink": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+    },
+    {
+      "id": 2,
+      "name": "Interstellar",
+      "genre": "Sci-Fi",
+      "releaseDate": "2014-11-07",
+      "rating": "8.6",
+      "price": 180,
+      "trailerLink": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    },
+    {
+      "id": 3,
+      "name": "AVENGERS:ENDGAME",
+      "genre": "Action",
+      "releaseDate": "2008-07-18",
+      "rating": "9.0",
+      "price": 200,
+      "trailerLink": "https://www.youtube.com/watch?v=TcMBFSGVi1c"
+    }
+  ]
+  
